@@ -1,1 +1,1 @@
-# prompt-patterns-playbook
+# persona pattern and audience persona pattern
